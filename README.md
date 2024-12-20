@@ -20,6 +20,16 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&height=45&lines=Computer+vision+engineer;3%2B+years+of+coding+experience" alt="Typing SVG" /></a>
 </p>
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/%E4%B8%96%E6%AB%AA-%E7%9B%A7-1681b8220/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/FlameXinWind/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
+
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
