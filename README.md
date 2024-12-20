@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/tuhlnaa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&height=45&lines=Computer+vision+engineer;3%2B+years+of+coding+experience" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&color=f75c7e&width=440&height=45&lines=Computer+vision+engineer;3%2B+years+of+coding+experience" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
