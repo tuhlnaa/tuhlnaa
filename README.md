@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 
 ### 🧰 Frameworks and Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch&link=https%3A%2F%2Fpytorch.org)
+![ONNX](https://img.shields.io/badge/ONNX-000?logo=onnx&link=https%3A%2F%2Fonnx.ai%2F)
 ![OpenCV](https://img.shields.io/badge/OpenCV-000?style=flat-square&logo=opencv&link=https%3A%2F%2Fopencv.org)
 ![Qt 6](https://img.shields.io/badge/Qt-000?style=flat-square&logo=qt&link=https%3A%2F%2Fwww.qt.io)
 ![Streamlit](https://img.shields.io/badge/Streamlit-000?style=flat-square&logo=streamlit&link=https%3A%2F%2Fstreamlit.io)
