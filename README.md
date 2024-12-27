@@ -43,32 +43,35 @@ Here are some ideas to get you started:
 <br>
 
 ### 👨‍💻 Programming and Markup Languages
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&link=https%3A%2F%2Fwww.python.org)
 <p>
-<a href="https://isocpp.org/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-000?style=flat-square&logo=cplusplus"></a>
-  </p>
-<br><br>
+  <a href="#" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python"></a>
+  <a href="#" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-000?style=flat-square&logo=cplusplus"></a>
+</p>
 
 ### 🧰 Frameworks and Libraries
-![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch&link=https%3A%2F%2Fpytorch.org)
-![ONNX](https://img.shields.io/badge/ONNX-000?logo=onnx&link=https%3A%2F%2Fonnx.ai%2F)
-![OpenCV](https://img.shields.io/badge/OpenCV-000?style=flat-square&logo=opencv&link=https%3A%2F%2Fopencv.org)
-![Qt 6](https://img.shields.io/badge/Qt-000?style=flat-square&logo=qt&link=https%3A%2F%2Fwww.qt.io)
-![Streamlit](https://img.shields.io/badge/Streamlit-000?style=flat-square&logo=streamlit&link=https%3A%2F%2Fstreamlit.io)
-<br><br>
+<p>
+  <a href="#"><img alt="Neptune" src="https://img.shields.io/badge/Neptune-000?style=flat-square&logo=neptune"></a>
+  <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch"></a>
+  <a href="#"><img alt="ONNX" src="https://img.shields.io/badge/ONNX-000?logo=onnx"></a>
+  <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-000?style=flat-square&logo=opencv"></a>
+  <a href="#"><img alt="Qt 6" src="https://img.shields.io/badge/Qt-000?style=flat-square&logo=qt"></a>
+  <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-000?style=flat-square&logo=streamlit"></a>
+</p>
 
 ### 🗄️ Databases and Cloud Hosting
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&link=https%3A%2F%2Fwww.postgresql.org)
-![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-000?style=flat-square&logo=apacheparquet&link=https%3A%2F%2Fparquet.apache.org)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare&link=https%3A%2F%2Fwww.cloudflare.com)
-![Hostinger](https://img.shields.io/badge/Hostinger-000?style=flat-square&logo=hostinger&link=https%3A%2F%2Fwww.hostinger.com)
-![Ghost](https://img.shields.io/badge/Ghost-000?style=flat-square&logo=ghost&link=https%3A%2F%2Fghost.org)
-![Obsidian](https://img.shields.io/badge/Obsidian-000?style=flat-square&logo=obsidian&link=https%3A%2F%2Fobsidian.md)
-<br><br>
+<p>
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql"></a>
+  <a href="#"><img alt="Apache Parquet" src="https://img.shields.io/badge/Apache%20Parquet-000?style=flat-square&logo=apacheparquet"></a>
+  <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare"></a>
+  <a href="#"><img alt="Hostinger" src="https://img.shields.io/badge/Hostinger-000?style=flat-square&logo=hostinger"></a>
+  <a href="#"><img alt="Ghost" src="https://img.shields.io/badge/Ghost-000?style=flat-square&logo=ghost"></a>
+  <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-000?style=flat-square&logo=obsidian"></a>
+</p>
 
 ### 💻 Software and Tools
-![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=flat-square&logo=ubuntu&link=https%3A%2F%2Fubuntu.com)
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&link=https%3A%2F%2Fgit-scm.com)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000?style=flat-square&link=https%3A%2F%2Fwww.postgresql.org)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000?style=flat-square&link=https%3A%2F%2Fvisualstudio.microsoft.com)
-<br><br>
+<p>
+  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-000?style=flat-square&logo=ubuntu"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-000?style=flat-square&logo=git"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-000?style=flat-square"></a>
+  <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-000?style=flat-square"></a>
+</p>
