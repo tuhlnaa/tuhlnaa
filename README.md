@@ -44,7 +44,9 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Programming and Markup Languages
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&link=https%3A%2F%2Fwww.python.org)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=flat-square&logo=cplusplus&link=https%3A%2F%2Fisocpp.org)
+<p>
+<a href="https://isocpp.org/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-000?style=flat-square&logo=cplusplus"></a>
+  </p>
 <br><br>
 
 ### 🧰 Frameworks and Libraries
