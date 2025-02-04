@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 ### 💻 Software and Tools
 <p>
   <a href="#"><img alt="Neptune" src="https://img.shields.io/badge/Neptune-000?style=flat-square&logo=neptune"></a>
+  <a href="#"><img alt="Neptune" src="https://custom-icon-badges.demolab.com/badge/ClearML-000.svg?logo=38647316&logoColor=000"></a>
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-000?style=flat-square&logo=ubuntu"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-000?style=flat-square&logo=git"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-000?style=flat-square"></a>
 </p>
