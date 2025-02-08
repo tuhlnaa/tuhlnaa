@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 ### 🧰 Frameworks and Libraries
 <p>
   <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch"></a>
-  <a href="#"><img alt="ONNX" src="https://img.shields.io/badge/ONNX-000?logo=onnx"></a>
   <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-000?style=flat-square&logo=opencv"></a>
+  <a href="#"><img alt="ONNX" src="https://img.shields.io/badge/ONNX-000?logo=onnx"></a>
   <a href="#"><img alt="Qt 6" src="https://img.shields.io/badge/Qt-000?style=flat-square&logo=qt"></a>
   <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-000?style=flat-square&logo=streamlit"></a>
 </p>
@@ -64,8 +64,8 @@ Here are some ideas to get you started:
   <a href="#"><img alt="Apache Parquet" src="https://img.shields.io/badge/Apache%20Parquet-000?style=flat-square&logo=apacheparquet"></a>
   <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare"></a>
   <a href="#"><img alt="Hostinger" src="https://img.shields.io/badge/Hostinger-000?style=flat-square&logo=hostinger"></a>
-  <a href="#"><img alt="Ghost" src="https://img.shields.io/badge/Ghost-000?style=flat-square&logo=ghost"></a>
-  <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-000?style=flat-square&logo=obsidian"></a>
+  <a href="#"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-000?style=flat-square&logo=digitalocean"></a>
+  
 </p>
 
 ### 💻 Software and Tools
@@ -74,4 +74,7 @@ Here are some ideas to get you started:
   <a href="#"><img alt="Neptune" src="https://custom-icon-badges.demolab.com/badge/ClearML-000.svg?logo=38647316&logoColor=000"></a>
   <a href="#"><img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-000?style=flat-square&logo=gitkraken"></a>
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-000?style=flat-square&logo=ubuntu"></a>
+  <a href="#"><img alt="Ghost" src="https://img.shields.io/badge/Ghost-000?style=flat-square&logo=ghost"></a>
+  <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-000?style=flat-square&logo=obsidian"></a>
+  <a href="#"><img alt="GitBook" src="https://img.shields.io/badge/GitBook-000?style=flat-square&logo=gitbook"></a>
 </p>
