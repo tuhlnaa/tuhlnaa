@@ -78,7 +78,7 @@ Here are some ideas to get you started:
   <a href="#"><img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-000?style=flat-square&logo=gitkraken"></a>
   <a href="#"><img alt="GitBook" src="https://img.shields.io/badge/GitBook-000?style=flat-square&logo=gitbook"></a>
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-000?style=flat-square&logo=ubuntu"></a>
-  <a href="#"><img alt="Slurm" src="https://custom-icon-badges.demolab.com/badge/Slurm-000.svg?logo=slurm_logo-2_waifu2x_100x2_3n&logoColor=000"></a>
+  <a href="#"><img alt="Slurm" src="https://custom-icon-badges.demolab.com/badge/Slurm-000.svg?logo=slurm_logo-white_waifu2x_100x2_3n&logoColor=000"></a>
   <a href="#"><img alt="Ghost" src="https://img.shields.io/badge/Ghost-000?style=flat-square&logo=ghost"></a>
   <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-000?style=flat-square&logo=obsidian"></a>
 </p>
