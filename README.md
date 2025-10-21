@@ -58,6 +58,7 @@ Here are some ideas to get you started:
   <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-000?style=flat-square&logo=opencv"></a>
   <a href="#"><img alt="ONNX" src="https://img.shields.io/badge/ONNX-000?logo=onnx"></a>
   <a href="#"><img alt="Qt 6" src="https://img.shields.io/badge/Qt-000?style=flat-square&logo=qt"></a>
+  <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi"></a>
   <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-000?style=flat-square&logo=streamlit"></a>
 </p>
 
