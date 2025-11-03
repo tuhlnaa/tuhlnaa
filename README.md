@@ -74,8 +74,9 @@ Here are some ideas to get you started:
 ### 💻 Software and Tools
 <p>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=Docker"></a>
+  <a href="#"><img alt="Databricks Mosaic AI" src="https://img.shields.io/badge/Databricks%20Mosaic%20AI%20-000?style=flat-square&logo=databricks"></a>
   <a href="#"><img alt="ClearML" src="https://custom-icon-badges.demolab.com/badge/ClearML-000.svg?logo=38647316&logoColor=000"></a>
-  <a href="#"><img alt="Neptune" src="https://img.shields.io/badge/Weights%20%26%20Biases-000?style=flat-square&logo=weightsandbiases"></a>
+  <a href="#"><img alt="WeightsBiases" src="https://img.shields.io/badge/Weights%20%26%20Biases-000?style=flat-square&logo=weightsandbiases"></a>
   <a href="#"><img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-000?style=flat-square&logo=gitkraken"></a>
   <a href="#"><img alt="GitBook" src="https://img.shields.io/badge/GitBook-000?style=flat-square&logo=gitbook"></a>
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-000?style=flat-square&logo=ubuntu"></a>
