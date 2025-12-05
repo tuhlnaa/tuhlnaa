@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/%E4%B8%96%E6%AB%AA-%E7%9B%A7-1681b8220/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/lushihli/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/FlameXinWind/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
