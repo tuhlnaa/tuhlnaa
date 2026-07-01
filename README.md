@@ -60,6 +60,7 @@ Here are some ideas to get you started:
   <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-000?style=flat-square&logo=opencv"></a>
   <a href="#"><img alt="ONNX" src="https://img.shields.io/badge/ONNX-000?logo=onnx"></a>
   <a href="#"><img alt="Qt 6" src="https://img.shields.io/badge/Qt-000?style=flat-square&logo=qt"></a>
+  <a href="#"><img alt="Slint" src="https://img.shields.io/badge/Slint-000?style=flat-square&logo=slint"></a>
   <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi"></a>
   <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-000?style=flat-square&logo=streamlit"></a>
 </p>
@@ -76,7 +77,6 @@ Here are some ideas to get you started:
 ### 💻 Software and Tools
 <p>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=Docker"></a>
-  <a href="#"><img alt="Databricks Mosaic AI" src="https://img.shields.io/badge/Databricks%20Mosaic%20AI%20-000?style=flat-square&logo=databricks"></a>
   <a href="#"><img alt="ClearML" src="https://custom-icon-badges.demolab.com/badge/ClearML-000.svg?logo=38647316&logoColor=000"></a>
   <a href="#"><img alt="WeightsBiases" src="https://img.shields.io/badge/Weights%20%26%20Biases-000?style=flat-square&logo=weightsandbiases"></a>
   <a href="#"><img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-000?style=flat-square&logo=gitkraken"></a>
